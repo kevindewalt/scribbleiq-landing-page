@@ -1,4 +1,18 @@
+body {
+  font-family: 'Open Sans', sans-serif; }
+
 .header-section-7 {
   background: #1948d1; }
+
+.logo {
+  font-family: 'Kalam', cursive;
+  font-weight: 400;
+  font-size: 40px;
+  color: #7519d2; }
+  .logo .iq {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #7519d2;
+    font-size: 40px; }
 
 /*# sourceMappingURL=scribbleiq.css.map */

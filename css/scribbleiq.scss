@@ -1,3 +1,26 @@
+// note: Kevin made these colors. He is a lousy designer so feel free to change them. :-)
+$primary-blue: #1948d1;
+$logo: #7519d2;
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .header-section-7 {
-  background: #1948d1;
+  background: $primary-blue;
+}
+
+.logo {
+  font-family: 'Kalam', cursive;
+  font-weight: 400;
+  font-size: 40px;
+  color: $logo;
+
+  .iq {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: $logo;
+    font-size: 40px;
+  }
+
 }
